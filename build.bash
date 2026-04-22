@@ -1,0 +1,1 @@
+g++ entity.cpp player.cpp enemies.cpp scene_selector.cpp game_scene.cpp background.cpp main.cpp -lraylib -lGL -lm -lpthread -ldl -lrt -lX11
