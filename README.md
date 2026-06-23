@@ -1,5 +1,4 @@
 # VOID RUNNER
-#### Video Demo: (https://youtu.be/0rcE3-FuzAA)
 #### Description:
 
 Void Runner is a vertical-scrolling arcade survival game built in C++ using the [Raylib](https://www.raylib.com/) framework. The player pilots a spaceship through an endless field of falling asteroids and power-up items, trying to survive for 60 seconds without losing all their health. The game features multiple playable ship skins, a health and shield system, dynamic difficulty scaling, animated sprites, a full HUD, background music, and sound effects — all packaged into a clean scene-management architecture.
